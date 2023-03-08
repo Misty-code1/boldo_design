@@ -1,0 +1,15 @@
+main color : #FFFFFF
+body : #0A2640
+sections : #E5E5E5
+
+
+/* Ellipse 9 */
+position: absolute;
+width: 1293px;
+height: 1293px;
+left: 777px;
+top: -789px;
+
+/* Light Grey */
+
+background: #F1F1F1;
